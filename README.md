@@ -14,7 +14,7 @@ Python • C • Java • HTML/CSS • MySQL • AutoCAD básico
 
 📬 **Contato:**
 - Email: williangaia171@gmail.com
-- LinkedIn: [cole aqui seu link do LinkedIn]
+- LinkedIn: [linkedin.com/in/willian-gaia-7085b9231](https://www.linkedin.com/in/willian-gaia-7085b9231/)
 
----
+- ---
 *Sempre em busca de aprender e aplicar tecnologia de forma prática.*
