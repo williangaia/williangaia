@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Willian 👋
 
-<!--
-**williangaia/williangaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia da Computação** na Universidade Federal do Pará (UFPA) — Campus Tucuruí, atualmente no 9º semestre.
 
-Here are some ideas to get you started:
+🔧 **No que eu trabalho:**
+Analista de Sistemas Jr — desenvolvimento de soluções em Python, suporte ao sistema TOTVS/Consinco, redes e infraestrutura TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formação:**
+- Engenharia da Computação — UFPA (em andamento)
+- Técnico em Eletrotécnica — IFPA (2021)
+
+💻 **Tecnologias:**
+Python • C • Java • HTML/CSS • MySQL • AutoCAD básico
+
+📬 **Contato:**
+- Email: williangaia171@gmail.com
+- LinkedIn: [cole aqui seu link do LinkedIn]
+
+---
+*Sempre em busca de aprender e aplicar tecnologia de forma prática.*
