@@ -1,6 +1,6 @@
 # Olá, eu sou o Willian 👋
 
-Estudante de **Engenharia da Computação** na Universidade Federal do Pará (UFPA) — Campus Tucuruí, atualmente no **9º semestre**.
+Estudante de **Engenharia da Computação** na Universidade Federal do Pará (UFPA) — Campus Tucuruí, atualmente no **10º semestre**.
 
 > 🔧 **No que eu trabalho:** Analista de Sistemas Jr — desenvolvimento de soluções em Python, suporte ao sistema TOTVS/Consinco, redes e infraestrutura TI.
 
