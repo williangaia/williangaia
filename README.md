@@ -34,7 +34,7 @@ Ferramenta desktop em Python para automatizar geração de cotações nos format
 
 ## 📬 Contato
 
-- 📧 Email: williangaia171@gmail.com
+- 📧 Email: williangaia171@outlook.com
 - 💼 LinkedIn: [linkedin.com/in/willian-gaia-7085b9231](https://www.linkedin.com/in/willian-gaia-7085b9231/)
 
 ---
