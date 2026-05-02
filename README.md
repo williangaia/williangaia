@@ -11,11 +11,12 @@
 
 ## 🧑‍💻 Sobre
 
-Sou Analista de Sistemas Jr com foco em automação de processos, integração com sistemas ERP e infraestrutura de TI, além da minha paixão por desenvolvimento back-end e dados. Atuo no suporte de usários da empresa ao sistema **TOTVS/Consinco** e uso do ambiente corpotarativo, crio soluções em Python para automação e desenvolvimento de processos, além de manutenção preventiva e corretiva de computadores/notebooks dos usuários e PDVs da frente de caixa.
+Analista de Sistemas Jr. com foco em automação de processos, integração com ERP e infraestrutura de TI.
+Entusiasta de **Back-end Python** (FastAPI/Django) e **Análise de Dados** — busco evoluir para desenvolvimento de APIs, pipelines de dados e soluções orientadas a dados.
 
 - 🔭 Trabalhando em automações Python
 - 🌱 Estudando FastAPI, Pandas, Django, ITSM/ITIL, GLPI e arquitetura de software
-- ⚡ Também tenho formação técnica em Eletrotécnica
+- ⚡ Também tenho formação técnica em Eletrotécnica (2021)
 
 ---
 
@@ -33,7 +34,9 @@ Sou Analista de Sistemas Jr com foco em automação de processos, integração c
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -84,7 +87,7 @@ Sou Analista de Sistemas Jr com foco em automação de processos, integração c
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Willian%20Gaia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-gaia-pereira-7085b9231/)
-[![Email](https://img.shields.io/badge/Email-williangaia171%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:williangaia171@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-williangaia171%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:williangaia171@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5594991401809)
 
 </div>
